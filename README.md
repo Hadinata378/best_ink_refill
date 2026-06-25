@@ -55,7 +55,7 @@
       align-items: center;
       justify-content: space-between;
     }
-    .logo {
+    .logo {img src="gambar/best_ink.jpeg"}
      
     }
     .logo-icon {
