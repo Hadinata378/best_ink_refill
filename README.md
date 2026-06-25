@@ -55,7 +55,10 @@
       align-items: center;
       justify-content: space-between;
     }
-    .logo {img src="gambar/best_ink.jpeg"}
+   .logo 
+    { display: flex;
+      align-items: center;
+      gap: 12px;
      
     }
     .logo-icon {
