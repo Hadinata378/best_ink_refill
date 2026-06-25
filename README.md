@@ -55,7 +55,7 @@
       align-items: center;
       justify-content: space-between;
     }
-    .logo {
+    .logo {best_ink.jpeg
       display: flex;
       align-items: center;
       gap: 12px;
