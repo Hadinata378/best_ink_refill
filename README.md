@@ -62,11 +62,13 @@
      
     }
     .logo-icon {
-      width: 44px; height: 44px;
-      background: var(--accent);
-      border-radius: 10px;
-      display: flex; align-items: center; justify-content: center;
-      font-size: 22px;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
     }
     .logo-text { color: #fff; }
     .logo-text span { display: block; }
